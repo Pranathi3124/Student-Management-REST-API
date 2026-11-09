@@ -68,3 +68,15 @@ All API endpoints are tested using Postman.
 
 Student\_Management\_API.postman\_collection.json
 
+## Development Workflow
+
+
+
+\- Created a feature branch for API development.
+
+\- Implemented and tested CRUD operations.
+
+\- Validated API responses using Postman.
+
+\- Prepared the project for code review through a Pull Request.
+
